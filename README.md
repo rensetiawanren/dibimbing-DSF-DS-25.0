@@ -5,8 +5,10 @@
 
 <p align="right">DIBIMBING-DSF-DS-25.0_PR-003_1</p>
 
-# project-name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Digital Skill Fair 25.0 - Data Science
+<p align="justify">
+Thsi repository for exercise and  daily task Digital Skill Fair 25.0 - Data Science by Dibimbing.id held on 21-30 March 2024.
+</p>
 
 ---
 
@@ -35,15 +37,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Tech Stack
 ##### Programming Language
 <p align="justify">
-  <!--[HTML]-->
+  <!--[Python]-->
   <a href="">
-    <img src="https://img.shields.io/badge/-HTML-272727?style=flat-square&logo=html5&logoColor="/>
+    <img src="https://img.shields.io/badge/-Python-272727?style=flat-square&logo=python&logoColor="/>
   </a>
-  <!--[Markdown]-->
-  <a href="https://www.markdownguide.org/">
-    <img src="https://img.shields.io/badge/-Markdown-272727?style=flat-square&logo=markdown&logoColor="/>
-  </a>
-</p>    
 
 ##### Versioning Control
 <p align="justify">    
@@ -59,17 +56,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### IDE
 <p align="justify">    
-  <!--[Visual Studio Code]-->
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-272727?style=flat-square&logo=visual-studio-code&logoColor=blue"/>
+  <!--[PyCharm]-->
+  <a href="">
+    <img src="https://img.shields.io/badge/-PyCharm-272727?style=flat-square&logo=pycharm&logoColor="/>
+  </a>   
+  <!--[Google Colab]-->
+  <a href="https://colab.research.google.com/">
+    <img src="https://img.shields.io/badge/-Google%20Colab-272727?style=flat-square&logo=googlecolab&logoColor="/>
   </a>
 </p>
 
 ##### WEB Browser
 <p align="justify">    
   <!--[Mozilla Firefox Developer Edition]-->
-  <a href="https://www.mozilla.org/en-US/firefox/developer/">
-    <img src="https://img.shields.io/badge/-Firefox%20Developer%20Edition-272727?style=flat-square&logo=firefox&logoColor=blue"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/-Microsoft%20Edge-272727?style=flat-square&logo=microsoft-edge&logoColor=blue"/>
   </a>
 </p>
 
@@ -88,15 +89,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-## Task
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<details>
+  <summary>
+    <h2>Daily Task</h2>
+  </summary>
 
-#### Case 1
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#### D3 [20240323] - Introduction to Python
+#### Excercise
 
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### Task
+1. Buatlah sebuah program Python yang mengkonversi suhu dari Celcius (float) ke Fahrenheit (float).
 
-3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Buatlah sebuah program Python yang meminta pengguna untuk memasukkan sebuah bilangan bulat. Program tersebut harus mencetak apakah bilangan tersebut ganjil atau genap.
 
 #### Case 2
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -104,6 +108,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</details>
 
 #### Mandatory Pages (required)
 1. 
