@@ -7,7 +7,7 @@
 
 # Digital Skill Fair 25.0 - Data Science
 <p align="justify">
-Thsi repository for exercise and  daily task Digital Skill Fair 25.0 - Data Science by Dibimbing.id held on 21-30 March 2024.
+This repository for exercise and  daily task Digital Skill Fair 25.0 - Data Science by Dibimbing.id held on 21-30 March 2024.
 </p>
 
 ---
@@ -17,22 +17,14 @@ Thsi repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
 2. [Project Goals](#project-goals)
 3. [Tech Stack](#tech-stack)
 4. [Workflow](#workflow)
-5. [Task](#task)
+5. [Task](#daily-practice--task)
 6. [Documentation](#documentation)
 
 ## Project Instruction
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- 
 
 ## Project Goals
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- 
 
 ## Tech Stack
 ##### Programming Language
@@ -89,7 +81,7 @@ Thsi repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
 
 3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-## Daily Task
+## Daily Practice & Task
 
 #### [D3 | March 23, 2024] - Introduction to Python
 #### Practice
@@ -99,18 +91,9 @@ Thsi repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
 
 2. Buatlah sebuah program Python yang meminta pengguna untuk memasukkan sebuah bilangan bulat. Program tersebut harus mencetak apakah bilangan tersebut ganjil atau genap.
 
-#### Case 2
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</details>
-
-#### Mandatory Pages (required)
-1. 
-2. 
-3. 
+#### Mandatory Files (required)
+1. Python files (.py)
+2. Jupiter Notebook files (.ipynb)
 
 ## Documentation
 #### To-Do
