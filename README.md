@@ -89,13 +89,10 @@ Thsi repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
 
 3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<details>
-  <summary>
-    <h2>Daily Task</h2>
-  </summary>
+## Daily Task
 
-#### D3 [20240323] - Introduction to Python
-#### Excercise
+#### [D3 | March 23, 2024] - Introduction to Python
+#### Practice
 
 #### Task
 1. Buatlah sebuah program Python yang mengkonversi suhu dari Celcius (float) ke Fahrenheit (float).
