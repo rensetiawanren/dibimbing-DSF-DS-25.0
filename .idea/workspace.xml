@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e12043f8-0ef1-4ae6-a371-81b9e33dbb1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/1_arithmetic-operators-addition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dibimbing-DSF-DS-25.0.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3-20240323/Practice/intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Practice/0_intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3-20240323/Task/bilangan-bulat.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Task/2_bilangan-bulat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3-20240323/Task/konversi-suhu.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Task/1_konversi-suhu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/1_arithmetic-operators_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/2_arithmetic-operators_substraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/3_arithmetic-operators_multiplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/4_arithmetic-operators_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/5_arithmetic-operators_modulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/6_arithmetic-operators_exponentiation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/7_arithmetic-operators_floor-division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3-20240323/Practice/0_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Practice/0_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3-20240323/Practice/1_arithmetic-operators-addition.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +34,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2eAc5Y9rJWaDUpr99vPZedjcxFT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
