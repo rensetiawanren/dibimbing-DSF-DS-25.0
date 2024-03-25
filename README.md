@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/DBMBG-DSF-DS-25.0_PR-003_1-A-COVER.png"/>
 </kbd>
 
 <p align="right">DIBIMBING-DSF-DS-25.0_PR-003_1</p>
