@@ -1,9 +1,9 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/DBMBG-DSF-DS-25.0_PR-003_1-A-COVER.png"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/DBMNG-DSF-DS-25.0_PR-003_1-A-COVER.jpg"/>
 </kbd>
 
-<p align="right">DIBIMBING-DSF-DS-25.0_PR-003_1</p>
+<p align="right">DBMNG-DSF-DS-25.0_PR-003_1</p>
 
 # Digital Skill Fair 25.0 - Data Science
 <p align="justify">

@@ -1,3 +1,5 @@
+# Buatlah sebuah program Python yang mengkonversi suhu dari Celcius (float) ke Fahrenheit (float)
+
 def celcius_ke_fahrenheit(celcius):
   """
   Mengkonversi suhu dari Celcius ke Fahrenheit.
@@ -19,4 +21,4 @@ celcius = float(input("Masukkan suhu Celcius: "))
 fahrenheit = celcius_ke_fahrenheit(celcius)
 
 # Print hasil konversi
-print(f"{celcius} derajat Celcius sama dengan {fahrenheit} derajat Fahrenheit.")
+print(f"{celcius} derajat Celcius = {fahrenheit} derajat Fahrenheit.")

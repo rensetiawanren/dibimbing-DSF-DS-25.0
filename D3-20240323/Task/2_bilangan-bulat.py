@@ -1,3 +1,6 @@
+# Buatlah sebuah program Python yang meminta pengguna untuk memasukkan sebuah bilangan bulat.
+# Program tersebut harus mencetak apakah bilangan tersebut ganjil atau genap.
+
 # Meminta pengguna memasukkan bilangan bulat
 bilangan = int(input("Masukkan bilangan bulat: "))
 
