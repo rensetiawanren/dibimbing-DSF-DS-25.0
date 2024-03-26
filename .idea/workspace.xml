@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12043f8-0ef1-4ae6-a371-81b9e33dbb1c" name="Changes" comment="upload: .py files" />
+    <list default="true" id="e12043f8-0ef1-4ae6-a371-81b9e33dbb1c" name="Changes" comment="upload: .py files">
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/6_Statement/1_and.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/6_Statement/2_nested-if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3-20240323/Practice/5_Conditional/7_and.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Practice/6_Statement/3_if.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rensetiawanren"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="64fd2c1a-7729-491f-8c28-5d617094c9d9" />
+        <option name="url" value="https://github.com/rensetiawanren/dibimbing-DSF-DS-25.0.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/D3-20240323/Practice/6_Statement" />
       <recent name="$PROJECT_DIR$/D3-20240323/Practice/Arithmetic-Operator" />
       <recent name="$PROJECT_DIR$/D3-20240323/Practice/Intro" />
     </key>
@@ -69,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711435619360</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload: .py files">
+      <option name="closed" value="true" />
+      <created>1711435957267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711435957267</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
