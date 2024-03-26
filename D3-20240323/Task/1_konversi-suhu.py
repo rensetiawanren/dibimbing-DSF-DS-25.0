@@ -14,7 +14,7 @@ def celcius_ke_fahrenheit(celcius):
   fahrenheit = (celcius * 9/5) + 32
   return fahrenheit
 
-# Input suhu Celcius
+# Input suhu Celsius
 celcius = float(input("Masukkan suhu Celcius: "))
 
 # Konversi Celcius ke Fahrenheit

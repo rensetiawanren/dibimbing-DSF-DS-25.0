@@ -2,7 +2,7 @@
 num1 = float(input("Enter the first number= "))
 num2 = float(input("Enter the second number= "))
 
-# Perform Arithmetic Operation - Addition
+# Perform Arithmetic Operation - Multiplication
 product = num1 * num2
 
 # Print the results
