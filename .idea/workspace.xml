@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e12043f8-0ef1-4ae6-a371-81b9e33dbb1c" name="Changes" comment="upload: .py files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3-20240323/Practice/0_Intro/0_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Practice/0_Intro/intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/content/banner/DBMNG-DSF-DS-25.0_PR-003_1-A-COVER.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711441844403</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="upload: .py files">
+      <option name="closed" value="true" />
+      <created>1711524444088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711524444088</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
