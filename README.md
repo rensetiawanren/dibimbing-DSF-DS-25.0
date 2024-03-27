@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/DBMNG-DSF-DS-25.0_PR-003_1-A-COVER.jpg"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/content/banner/DBMNG-DSF-DS-25.0_PR-003_1-A-0-COVER.jpg"/>
 </kbd>
 
 <p align="right">DBMNG-DSF-DS-25.0_PR-003_1</p>
