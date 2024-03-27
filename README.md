@@ -54,7 +54,7 @@ This repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
   </a>   
   <!--[Google Colab]-->
   <a href="https://colab.research.google.com/">
-    <img src="https://img.shields.io/badge/-Google%20Colab-272727?style=flat-square&logo=googlecolab&logoColor="/>
+    <img src="https://img.shields.io/badge/-Google%20Colaboratory-272727?style=flat-square&logo=googlecolab&logoColor="/>
   </a>
 </p>
 
@@ -94,7 +94,10 @@ This repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
 ## Documentation
 #### To-Do
 - [ ] Complete Workflow
-- [ ] Complete Task
+- [X] Complete D3-20240323 Practice
+- [X] Complete D3-20240323 Task
+- [ ] Complete D4-20240324 Practice
+- [ ] Complete D4-20240324 Task
 - [ ] Create Documentation Report
 
 #### Report
