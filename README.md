@@ -17,7 +17,7 @@ This repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
 2. [Project Goals](#project-goals)
 3. [Tech Stack](#tech-stack)
 4. [Workflow](#workflow)
-5. [Task](#daily-practice--task)
+5. [Daily Practice & Task](#daily-practice--task)
 6. [Documentation](#documentation)
 
 ## Project Instruction
