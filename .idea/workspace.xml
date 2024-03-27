@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e12043f8-0ef1-4ae6-a371-81b9e33dbb1c" name="Changes" comment="upload: .py files">
-      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/6_Statement/1_and.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D3-20240323/Practice/6_Statement/2_nested-if.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3-20240323/Practice/5_Conditional/7_and.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Practice/6_Statement/3_if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3-20240323/Practice/0_Intro/0_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3-20240323/Practice/0_Intro/intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rensetiawanren"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rensetiawanren&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -97,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711435957267</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upload: .py files">
+      <option name="closed" value="true" />
+      <created>1711441844403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711441844403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
